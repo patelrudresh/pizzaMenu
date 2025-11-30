@@ -2,9 +2,16 @@ import React from 'react'
 
 function Header() {
   return (
-    <div style={{background:"black", color:"white"}}>
-      <h1> Fast React Pizza Co</h1>
+    <header className="header">
+    <div>
+      <h1>welcome to our Pizza Center</h1>
     </div>
+    <nav className='nav'>
+      <ul>
+          <li><a href="#Profile">Profile</a></li>
+        </ul>
+    </nav>
+    </header>
   )
 }
 

@@ -1,0 +1,26 @@
+const Skills=[{
+    skill:"html-css",
+    level:"advance",
+    color:"#2662EA"
+},
+{
+    skill:"html-css",
+    level:"advance",
+    color:"#ea7b26ff"
+},
+{
+    skill:"JAVA",
+    level:"Beginar",
+    color:"#6e768bff"
+},
+{
+    skill:"Sql",
+    level:"Intermediate",
+    color:"#ea2688ff"
+},
+{
+    skill:"React",
+    level:"advance",
+    color:"#2662EA"
+},
+]
