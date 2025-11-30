@@ -24,14 +24,14 @@
         name:"pizza Margherita",
         ingredients:"Bread with italian olive oil and rosemary",
         price:90,
-        photoName:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zomato.com%2Fbangalore%2Fdominos-pizza-1-jp-nagar%2Fphotos&psig=AOvVaw2L1KHT-tqioAIzpElBUc7N&ust=1764425347504000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj6sOaClZEDFQAAAAAdAAAAABAE",
-        soldout:false,
+        photoName:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwp_laYxaRrGK64zfkincc5_HYci2fWIMi-A&s",
+        soldout:true,
     }
 ,{
         name:"pizza Spanaci",
         ingredients:"Bread with italian olive oil and rosemary",
         price:300,
-        photoName:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fpizza&psig=AOvVaw3OTyMeqhLTOrZ971XUSF4s&ust=1764425434251000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDh8o2DlZEDFQAAAAAdAAAAABAE",
-        soldout:false,
+        photoName:"https://media.istockphoto.com/id/1442417585/photo/person-getting-a-piece-of-cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=k60TjxKIOIxJpd4F4yLMVjsniB4W1BpEV4Mi_nb4uJU=",
+        soldout:true,
     }
 ];

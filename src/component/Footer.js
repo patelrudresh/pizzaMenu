@@ -7,14 +7,13 @@ function Footer() {
   const closeHour=22;
   const isOpen=hour>=openHour && hour<=closeHour
  
-  if(isOpen) alert("we're currently open!"); 
-  else alert("sorry we;re closed"); 
+  // if(isOpen) alert("we're currently open!"); 
+  // else alert("sorry we;re closed"); 
   return (
-
    <footer>
     <div className='' style={{fontWeight:"bold"}}>
-    {new Date().toLocaleTimeString()}. 
-    we're currently Open
+    {isOpen &&<p>We're Open Till {" "+ closeHour } :00. Come visit us or order</p>}
+    <button className='btn'> Order</button>
     </div>
    </footer>
   )
